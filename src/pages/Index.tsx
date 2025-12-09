@@ -49,8 +49,8 @@ const Index = () => {
               <Newspaper className="h-5 w-5 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="font-semibold text-foreground">Hindi SEO Title Generator</h1>
-              <p className="text-xs text-muted-foreground">Powered by AI</p>
+              <h1 className="font-semibold text-foreground">Hindi SEO Title Generator by SonBarsa</h1>
+              <p className="text-xs text-muted-foreground">Powered by SonBarsa</p>
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@ const Index = () => {
           <div className="text-center space-y-4">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent text-accent-foreground text-sm font-medium">
               <Sparkles className="h-4 w-4" />
-              AI-Powered SEO Optimization
+              SonBarsa AI-Powered SEO Optimization
             </div>
             <h2 className="text-3xl md:text-4xl font-bold text-foreground">
               हिंदी न्यूज़ टाइटल को{" "}
