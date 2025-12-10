@@ -49,10 +49,10 @@ const Index = () => {
             <img src={sonbarsaLogo} alt="SonBarsa Logo" className="h-10 w-auto" />
             <div>
               <h1 className="font-semibold text-foreground">
-                Hindi SEO Title Generator by <span className="text-primary font-bold">SonBarsa</span>
+                Hindi SEO Title Generator
               </h1>
               <p className="text-xs text-muted-foreground">
-                Powered by <span className="text-primary font-medium">SonBarsa</span>
+                Powered by <span className="text-primary font-medium">generative AI</span>
               </p>
             </div>
           </div>
