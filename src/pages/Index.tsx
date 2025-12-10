@@ -93,7 +93,7 @@ const Index = () => {
             {[
               {
                 title: "50-60 Characters",
-                description: "Ideal length for Google search results display",
+                description: "Ideal length for Google search and Google Discover",
               },
               {
                 title: "Keywords First",
@@ -101,21 +101,7 @@ const Index = () => {
               },
               {
                 title: "Compelling & Clear",
-                description: "Make it click-worthy without being clickbait",
-              },
-              {
-                title: "AI-based Headline Rephrase Tool",
-                description: "Hindi news titles को 60 characters के अंदर optimize करता है
-
-SEO-friendly और keyword-rich headlines auto-generate
-
-Google Search & Discover में visibility बढ़ाए
-
-CTR, impressions और reader engagement में सुधार
-
-Desk team का समय बचाता है और consistency बनाए रखता है
-
-पूरे newsroom के लिए scalable और fast solution",
+                description: "Saves desk time and Improves CTR, impressions, and overall engagement",
               },
             ].map((tip, index) => (
               <div
