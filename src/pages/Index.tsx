@@ -92,12 +92,12 @@ const Index = () => {
           <div className="grid gap-4 md:grid-cols-3">
             {[
               {
-                title: "50-60 Characters",
-                description: "Ideal length for Google search and Google Discover",
+                title: "Optimizes for Google Discover and Search ",
+                description: "generates SEO-friendly, keyword-rich titles",
               },
               {
-                title: "Keywords First",
-                description: "Place important keywords at the beginning",
+                title: "Editorial integrity",
+                description: "fully maintaining the ethos of responsible journalism maintains consistent headline quality",
               },
               {
                 title: "Compelling & Clear",
